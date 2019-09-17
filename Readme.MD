@@ -11,6 +11,7 @@ Input url:
 http://localhost:8080/v1/weather?city={city}<br>
 
 Sample Response:
+```
   [
   {
         "dt": 1568721600,
@@ -30,7 +31,7 @@ Sample Response:
         }
     }
     ]
-    
+    ```
     Error Response:
     [
     {
