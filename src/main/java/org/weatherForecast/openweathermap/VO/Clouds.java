@@ -2,7 +2,7 @@ package org.weatherForecast.openweathermap.VO;
 
 public class Clouds {
 
-	long all;
+	private long all;
 
 	public long getAll() {
 		return all;
@@ -11,5 +11,5 @@ public class Clouds {
 	public void setAll(long all) {
 		this.all = all;
 	}
-	
+
 }

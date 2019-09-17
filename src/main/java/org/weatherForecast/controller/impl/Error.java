@@ -1,5 +1,10 @@
 package org.weatherForecast.controller.impl;
 
+/**
+ * @author msundararajan
+ *
+ *         Error object, that defines cause of error
+ */
 public class Error {
 
 	private int code;

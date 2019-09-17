@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class ClientConfig {
-	
+
 	@Bean
 	public Client Client() {
 		ClientBuilder builder = ClientBuilder.newBuilder();
@@ -21,5 +21,4 @@ public class ClientConfig {
 
 	}
 
-	
 }
